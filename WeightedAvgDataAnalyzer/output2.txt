@@ -1,0 +1,3 @@
+The average of the numbers is 97.5, when using the data
+50.0, 60.0, 180.0, 90.0, 120.0, where 0.75 is the weight used, and
+the average is computed after dropping the lowest 2 values.
